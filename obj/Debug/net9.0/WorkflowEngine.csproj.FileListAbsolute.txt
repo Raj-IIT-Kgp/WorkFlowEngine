@@ -33,3 +33,4 @@
 /Users/rajmajumdermac/Code/WorkflowEngine/obj/Debug/net9.0/WorkflowEngine.pdb
 /Users/rajmajumdermac/Code/WorkflowEngine/obj/Debug/net9.0/WorkflowEngine.genruntimeconfig.cache
 /Users/rajmajumdermac/Code/WorkflowEngine/obj/Debug/net9.0/ref/WorkflowEngine.dll
+/Users/rajmajumdermac/Code/WorkflowEngine/obj/Debug/net9.0/WorkflowEngine.sourcelink.json
