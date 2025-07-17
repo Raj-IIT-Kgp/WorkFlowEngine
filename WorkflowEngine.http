@@ -1,0 +1,6 @@
+@WorkflowEngine_HostAddress = http://localhost:5050
+
+GET {{WorkflowEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
