@@ -134,7 +134,6 @@ app.MapGet("/instances/{instanceId}", (string instanceId) =>
 
 app.Run();
 
-
 // --- Data Models and Request Objects ---
 
 // Core Concepts from the assignment document
